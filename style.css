@@ -1,0 +1,30 @@
+.container{
+    width: 60%;
+    background-color: rgb(65, 39, 39);
+    color: aliceblue;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1%;
+    border-radius: 10px;
+    font-size:large;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(./imagem/fundo.webp);
+    background-size:contain;
+    background-attachment:scroll;
+}
+
+ol{
+    padding-left: 0%;
+   
+}
+

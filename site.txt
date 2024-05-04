@@ -1,0 +1,18 @@
+estrutura do site
+    1-título
+    2-imagem geral
+    3-descrição do site
+    4-lista
+        *título
+        *imagem
+        *descrição
+
+css
+    usar divs
+    div centralizada
+    fundo escuro/imagem
+    fundo da div escuro
+    letras brancas
+    imagens 100% o tamanho da div
+    imagens com a borda arredondada
+    vídeos 
